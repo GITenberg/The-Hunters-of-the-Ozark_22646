@@ -1,0 +1,37 @@
+_repo: The-Hunters-of-the-Ozark_22646
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Ellis, E. S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: When sixteen-year-old Fred Linden and his fifteen-year-old friend Terry
+  Clark set out to join a party of hunters and trappers in the Louisiana Territory
+  of the late eighteenth century, a Shawanoe warrior called Deerfoot comes to their
+  aid more than once when they encounter danger in the Ozark Mountains.
+gutenberg_issued: '2007-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22646'
+  lccn: 06037808
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ozark Mountains -- History -- 18th century -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- Ozark Mountains -- Fiction'
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'Shawnee Indians -- Fiction'
+title: The Hunters of the Ozark
+url: http://www.gutenberg.org/ebooks/22646
